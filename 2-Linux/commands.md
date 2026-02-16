@@ -4,7 +4,7 @@
 A **command** in Linux is a specific instruction given to the operating system to perform a task.
 
 ## 🔹 What is a Program?
-A **program** is a collection of instructions that execute a specific task when run.
+A program is a collection of instructions that execute a specific task when run.
 
 ---
 
